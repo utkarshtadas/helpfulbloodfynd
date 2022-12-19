@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server":"False",
+    "local_uri": "mysql://root:@localhost/blood_donation",
+    "prod_uri":"mysql://root:@localhost/blood_donation",
+    "tw_url":"https://twitter.com/BloodHelpful",
+    "no_of_posts": "5",
+    "project_name": "Helpful Blood (BLOOD DONATION)",
+    "tag_line": "-- Donate Blood, Save Life, Find The Hero In You --",
+    "gmail-user":"utkarshtadas1@gmail.com",
+    "gmail-password":"Utkarsh@18",
+    "admin_user":"utkarsh",
+    "admin_password": "123456",
+    "admin-mail": "utkarshtadas1@gmail.com",
+    "admin-mobile": "7387420531"
+
+  }
+}
